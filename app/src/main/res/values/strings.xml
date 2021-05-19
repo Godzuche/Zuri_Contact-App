@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contact Category</string>
+
+    <string name="addFAB">Add Floating Action Button</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="name">Name</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="save">Save</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="colleagues">Colleagues</string>
+    <string name="friends">Friends</string>
+    <string name="tutors">Tutors</string>
+    <string name="work">Work</string>
+    <string name="blocked">Blocked</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="name">Name</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="save">Save</string>
+</resources>
